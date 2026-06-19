@@ -1,0 +1,14 @@
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\bin\Debug\net8.0-windows\DigitalShop.exe
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\bin\Debug\net8.0-windows\DigitalShop.deps.json
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\bin\Debug\net8.0-windows\DigitalShop.runtimeconfig.json
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\bin\Debug\net8.0-windows\DigitalShop.dll
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\bin\Debug\net8.0-windows\DigitalShop.pdb
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\obj\Debug\net8.0-windows\DigitalShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\obj\Debug\net8.0-windows\DigitalShop.AssemblyInfoInputs.cache
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\obj\Debug\net8.0-windows\DigitalShop.AssemblyInfo.cs
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\obj\Debug\net8.0-windows\DigitalShop.csproj.CoreCompileInputs.cache
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\obj\Debug\net8.0-windows\DigitalShop.dll
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\obj\Debug\net8.0-windows\refint\DigitalShop.dll
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\obj\Debug\net8.0-windows\DigitalShop.pdb
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\obj\Debug\net8.0-windows\DigitalShop.genruntimeconfig.cache
+C:\Users\LHVSkot\source\repos\DigitalShop\DigitalShop\obj\Debug\net8.0-windows\ref\DigitalShop.dll
